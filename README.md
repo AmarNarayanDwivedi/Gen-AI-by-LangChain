@@ -16,15 +16,6 @@ This repository contains my practice files and code related to learning and work
   - FAISS
   - ChromaDB
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
-- [Setup and Installation](#setup-and-installation)
-- [File Structure](#file-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 This repository contains files and code examples that demonstrate my understanding and practice of Langchain components, text splitting techniques, and various embedding methods such as OpenAI, Ollama, and Huggingface embeddings. The goal is to showcase how to ingest data, manipulate text, and store vectors in different vector stores.
