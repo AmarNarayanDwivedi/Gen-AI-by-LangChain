@@ -36,3 +36,21 @@ Follow these steps to set up the project and run the code:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/langchain-practice.git
+   ```
+   
+2. **install dependencies Create a virtual environment (optional but recommended) and install the required libraries.**
+
+ ```bash
+
+python -m venv venv
+source venv/bin/activate  # On Windows, use venv\Scripts\activate
+pip install -r requirements.txt
+ ```
+
+3.**Set up API keys Some of the modules, such as OpenAI and Ollama, require API keys. Please set them as environment variables or create a .env file in the root directory and add the necessary keys:**
+
+ ```bash
+OPENAI_API_KEY=your-openai-api-key
+OLLAMA_API_KEY=your-ollama-api-key
+```
+
